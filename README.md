@@ -1,6 +1,11 @@
 # hello-world
 
-Hi Humans!
-
-Hubot here. I like Node.js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find the, far superior to Earth tacos.
+%1-: Emoji ref
+  https://github.com/blog/1289-emoji-autocomplete
+  
+%1-: gitbus introduction guides
+  *) Github flow guide:
+      https://guides.github.com/introduction/flow/index.html
+      
+  *) How to get involved in an open source project
+      https://github.com/explore
